@@ -3,7 +3,8 @@
 <h2>Hello World!</h2>
 
 heyy pratik
-<form action="/home">
+<form action="../home1">
+
 
 
 
