@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-2.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-aop-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-aspects-5.1.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-beans-5.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-boot-starter-web-2.3.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-context-5.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-context-support-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-core-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-expression-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-instrument-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-instrument-tomcat-3.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-jdbc-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-jms-5.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-messaging-5.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-orm-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-orm-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-oxm-3.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-test-5.1.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-tx-5.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-web-5.2.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-web-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-webmvc-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-webmvc-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-webmvc-portlet-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/spring jar files/spring-websocket-5.0.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/servlet jar files/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/servlet jar files/javax.servlet-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/servlet jar files/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/servlet jar files/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/byte-buddy-1.10.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/classmate-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/dom4j-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/FastInfoset-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/hibernate-commons-annotations-5.1.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/hibernate-core-5.4.30.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/istack-commons-runtime-3.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/jandex-2.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/javassist-3.27.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/javax.persistence-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/jaxb-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/jboss-logging-3.4.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/stax-ex-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/prati/Documents/Hibernate3 jar files/New folder/txw2-2.3.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
